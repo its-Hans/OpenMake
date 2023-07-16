@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "chad.phobos.asm",
+  "refmap": "mixins.oyvey.refmap.json",
+  "mixins": [
+    "accessors.IChunkProviderClient",
+    "accessors.IPlayerControllerMP",
+    "accessors.IRenderGlobal",
+    "accessors.IRenderManager",
+    "accessors.ICPacketPlayer",
+    "mixins.MixinEntityPlayerSP",
+    "mixins.MixinGuiNewChat",
+    "mixins.MixinGuiScreen",
+    "mixins.MixinItemRenderer",
+    "mixins.MixinMinecraft",
+    "mixins.MixinNetworkManager",
+    "mixins.MixinPlayerControllerMP",
+    "mixins.MixinWorld",
+    "mixins.MixinRenderGlobal"
+  ]
+}

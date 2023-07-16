@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "makecc",
+    "name": "Make",
+    "description": "sad leak of, now public",
+    "version": "0",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "MakeCat"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
